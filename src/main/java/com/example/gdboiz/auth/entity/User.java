@@ -1,4 +1,4 @@
-package com.example.gdboiz.core.auth.entity;
+package com.example.gdboiz.auth.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
